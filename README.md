@@ -1,5 +1,5 @@
-# CelebalInnovationLabs
-All the contents and material related to Celebal Innovation Labs
+# Celebal Innovation Labs
+All the material, ideas and data related to Celebal Innovation Labs
 
 # Member List
 ## PIET (Apps & Infra)
