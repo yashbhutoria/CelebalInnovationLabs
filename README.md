@@ -49,11 +49,11 @@ All the material, ideas and data related to Celebal Innovation Labs
 |-----|-------|-----|--------|
 | 1 | | Arpit Agrawal | PCE16CE017 |
 | 2 | | Divyanshu Sanghi | PCE16CE038 |
-| 3 | | Alfaij Mansuri | PCE17CS018 |
+| 3 | :star: | Alfaij Mansuri | PCE17CS018 |
 | 4 | | Harsh Bhardwaj | PCE17CS060 |
 | 5 | | Ishita Sharma  | PCE17CS073  |
 | 6 | | Kuldeep Tailor | PCE17CS089 |
-| 7 | | Kumar Kautuk | PCE17CS090
+| 7 | :star: | Kumar Kautuk | PCE17CS090
 | 8 | | Mudit Chopra | PCE17CS104 |
 | 9 | | Prabal Surana | PCE17CS115 |
 | 10 | | Aditya Kumar | PCE16IT002 |
