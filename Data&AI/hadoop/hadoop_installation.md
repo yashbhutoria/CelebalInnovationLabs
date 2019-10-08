@@ -158,7 +158,7 @@ ssh slave1 ----From master we can direct login to slave without password
 exit
 ```
 
-- ### winscp hadoop v2 into master1 by hadoop user
+> winscp hadoop v2 into master1 by hadoop user
 
 ```
 ls
