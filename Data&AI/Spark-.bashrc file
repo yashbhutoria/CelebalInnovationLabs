@@ -1,0 +1,28 @@
+If you want to do work on jupyter notebook first download jupyter notebook by typing command
+ pip3 install jupyter -y (with root user)
+ 
+After changing user from root to normal
+1) type cd
+2) vi .bashrc (in linux)
+
+export HADOOP_HOME=/home/adhoc/Desktop/hadoop2/hadoop-2.7.3
+export HADOOP_INSTALL=$HADOOP_HOME
+export HADOOP_MAPRED_HOME=$HADOOP_HOME
+export HADOOP_COMMON_HOME=$HADOOP_HOME
+export HADOOP_HDFS_HOME=$HADOOP_HOME
+export YARN_HOME=$HADOOP_HOME
+export HADOOP_COMMON_LIB_NATIVE_DIR=$HADOOP_HOME/lib/native
+export JAVA_HOME=/usr/java/jdk1.8.0
+PATH=$JAVA_HOME/bin:$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$PATH
+export PATH
+export SPARK_HOME=/home/adhoc/Desktop/spark-2.4.4-bin-hadoop2.7 ####### HERE YOU HAVE TO WRITE PATH OF UNTAR SPARK FILE
+export PYSPARK_PYTHON=python3
+export PATH=$PATH:/home/adhoc/Desktop/spark-2.4.4-bin-hadoop2.7/bin
+
+export PYSPARK_DRIVER_PYTHON=jupyter         ( Do this if you want to work on jupyter notebook Else skip these two lines)
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+
+###################################################################################################################################
+
+AFTER DOING THIS CHANGES DONT FORGET TO TYPE "source .bashrc" and dont do  all these changes in root user
+now you can type pyspark it will automatically redirected you to jupyter notebook 
