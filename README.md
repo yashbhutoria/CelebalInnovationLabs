@@ -9,7 +9,7 @@ All the material, ideas and data related to Celebal Innovation Labs
 | 2 | | Aditya Tanwar | PIET17CS004 |
 | 3 | | Akash Agarwal | PIET17CS005 |
 | 4 | | Akash Deep | PIET17CS301 |
-| 5 | | Akshay Joshi | PIET17CS007 |
+| 5 | :star: | Akshay Joshi | PIET17CS007 |
 | 6 | | Amit Kumar | PGI17CS006 |
 | 7 | | Anuj Soni | PIET17CS014 |
 | 8 | | Ashish Bodhijani | PIET17CS019 |
@@ -52,7 +52,7 @@ All the material, ideas and data related to Celebal Innovation Labs
 | 3 | :star: | Alfaij Mansuri | PCE17CS018 |
 | 4 | | Harsh Bhardwaj | PCE17CS060 |
 | 5 | | Ishita Sharma  | PCE17CS073  |
-| 6 | | Kuldeep Tailor | PCE17CS089 |
+| 6 | :star: | Kuldeep Tailor | PCE17CS089 |
 | 7 | :star: | Kumar Kautuk | PCE17CS090
 | 8 | | Mudit Chopra | PCE17CS104 |
 | 9 | | Prabal Surana | PCE17CS115 |
